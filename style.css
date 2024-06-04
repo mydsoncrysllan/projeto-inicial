@@ -178,7 +178,7 @@ footer {
   }
 }
 
-/* animation */
+/* animation, cria animações*/
 @keyframes slide-in {
   from {
     left: 0;
